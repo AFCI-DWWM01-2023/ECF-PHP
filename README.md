@@ -12,4 +12,6 @@ Respectez les consignes
 
 ![CalculCercle](./profile/Doc/1.jpg)&nbsp;&nbsp;  
 
-2. Table de multiplication
+2. Table de multiplication  
+
+![multiplication](./profile/Doc/2.jpg)&nbsp;&nbsp; 
