@@ -10,4 +10,4 @@ Respectez les consignes
 
 1. Calcul sur le cercle  
 
-[CalculCercle](./profile/Doc/1.2.JPG)&nbsp;&nbsp;
+![CalculCercle](./profile/Doc/1.2.JPG)&nbsp;&nbsp;
