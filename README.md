@@ -4,7 +4,7 @@ Respectez les consignes
 ## Consignes :  
 * Le code doit être propre, indenté et commenté
 * attention aux noms de variables
-* Les dialogues doivent etre respectés  
+* Les dialogues doivent être respectés  
 
 ## [ECF-PHP](./profile/Doc/ECF-PHP.pdf)&nbsp;&nbsp;  
 
