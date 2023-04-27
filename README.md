@@ -2,7 +2,7 @@
 Évaluation pour vérifier les connaissances de bases PHP  
 Respectez les consignes  
 ## Consignes :  
-* Le code doit etre propre, indenté et commenté
+* Le code doit être propre, indenté et commenté
 * attention aux noms de variables
 * Les dialogues doivent etre respectés  
 
