@@ -14,4 +14,8 @@ Respectez les consignes
 
 2. Table de multiplication  
 
-![multiplication](./profile/Doc/2.jpg)&nbsp;&nbsp; 
+![multiplication](./profile/Doc/2.jpg)&nbsp;&nbsp;  
+
+3. Équation du second degré  
+
+![equation](./profile/Doc/3.jpg)&nbsp;&nbsp; 
