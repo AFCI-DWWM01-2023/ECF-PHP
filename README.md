@@ -8,4 +8,5 @@ Respectez les consignes
 
 ## [ECF-PHP](./profile/Doc/ECF-PHP.pdf)&nbsp;&nbsp;  
 
-1. Calcul sur le cercle
+1. Calcul sur le cercle  
+![CalculCercle](./profile/Doc/1.jpg)&nbsp;&nbsp;
