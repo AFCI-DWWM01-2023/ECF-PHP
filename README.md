@@ -18,4 +18,8 @@ Respectez les consignes
 
 3. Équation du second degré  
 
-![equation](./profile/Doc/3.jpg)&nbsp;&nbsp; 
+![equation](./profile/Doc/3.jpg)&nbsp;&nbsp;  
+
+4. Tableaux périodiques des éléments  
+
+![tableauAsso](./profile/Doc/4.jpg)&nbsp;&nbsp; 
