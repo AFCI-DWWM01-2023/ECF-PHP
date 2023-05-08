@@ -8,6 +8,8 @@ Respectez les consignes
 
 ## [ECF-PHP](./profile/Doc/ECF-PHP.pdf)&nbsp;&nbsp;  
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 1. Calcul sur le cercle  
 
 ![CalculCercle](./profile/Doc/1.jpg)&nbsp;&nbsp;  
